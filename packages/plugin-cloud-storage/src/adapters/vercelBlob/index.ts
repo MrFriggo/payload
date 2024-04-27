@@ -67,6 +67,7 @@ export const vercelBlobAdapter =
     const baseUrl = `https://${storeId}.${access}.blob.vercel-storage.com`
 
     return {
+      name: 'vercel-blob',
       generateURL: getGenerateUrl({ baseUrl, prefix }),
       handleDelete: getHandleDelete({ baseUrl, prefix, token }),
       handleUpload: getHandleUpload({
