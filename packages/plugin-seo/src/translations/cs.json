@@ -1,0 +1,22 @@
+{
+  "$schema": "./translation-schema.json",
+  "plugin-seo": {
+    "autoGenerate": "Generovat automaticky",
+    "imageAutoGenerationTip": "Automatická generace načte vybraný hero obrázek.",
+    "bestPractices": "osvědčené postupy",
+    "lengthTipTitle": "Toto by mělo mít mezi {{minLength}} a {{maxLength}} znaky. Pomoc při psaní kvalitních meta titulů navštivte ",
+    "lengthTipDescription": "Toto by mělo mít mezi {{minLength}} a {{maxLength}} znaky. Pomoc při psaní kvalitních meta popisů navštivte ",
+    "good": "Dobré",
+    "tooLong": "Příliš dlouhé",
+    "tooShort": "Příliš krátké",
+    "almostThere": "Skoro hotovo",
+    "characterCount": "{{current}}/{{minLength}}-{{maxLength}} znaků, '",
+    "charactersToGo": "{{characters}} zbývá",
+    "charactersLeftOver": "{{characters}} zbývá",
+    "charactersTooMany": "{{characters}} navíc",
+    "noImage": "Bez obrázku",
+    "checksPassing": "{{current}}/{{max}} kontrol úspěšně splněno",
+    "preview": "Náhled",
+    "previewDescription": "Přesný výsledek se může lišit v závislosti na obsahu a relevanci vyhledávání."
+  }
+}
